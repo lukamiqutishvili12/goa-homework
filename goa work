@@ -1,4 +1,0 @@
-for i in range (1000):
-    github 
-print(str)(i + 5) + " . luka miqutishvili"
-
